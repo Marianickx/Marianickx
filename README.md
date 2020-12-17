@@ -17,12 +17,19 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
  ✏️ Competências trabalhadas: 
  
 🐍 Programação em Python
+
 📝 Reconhecimento de imagens 
+
 💡 User Experience
+
 💼 Proposta de valor
+
 🚀 Gestão de projeto
+
 💬 Comunicação
+
 📖 Aprendizagem autodirigida
+
 🤓 Autoconhecimento
 
 Meu  [Linkedin](https://www.linkedin.com/in/naolip/)

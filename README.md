@@ -24,4 +24,4 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 - Aprendizagem autodirigida
 - Autoconhecimento
 
-Meu Linkedin [Linkedin](https://www.linkedin.com/in/naolip/)
+Meu  [Linkedin](https://www.linkedin.com/in/naolip/)

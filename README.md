@@ -16,7 +16,7 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
  
 
 
- ✏️ Competências trabalhadas: 
+###  Competências trabalhadas: 
  
 🐍 Programação em Python
 
@@ -33,5 +33,10 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 📖 Aprendizagem autodirigida
 
 🤓 Autoconhecimento
+
+
+### Interesses em programação :
+
+💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 
 Meu  [Linkedin](https://www.linkedin.com/in/naolip/)

@@ -39,6 +39,6 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
 💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 
-Meu  [Linkedin](https://www.linkedin.com/in/naolip/)
+[Linkedin](https://www.linkedin.com/in/naolip/)
 
 [Twitter](https://twitter.com/Marianicksiame1)

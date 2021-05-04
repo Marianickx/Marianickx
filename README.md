@@ -11,7 +11,7 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
 Engenharia de Requisitos: como levantar, documentar e validar de carga horária estimada em 6 horas, realizando 30 de 30 atividades
 
-### Edx
+### [Edx](https://www.edx.org/)
 🚩 04/2021
 
 Introduction to Data Science

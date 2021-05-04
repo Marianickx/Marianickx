@@ -1,15 +1,11 @@
 ## Hello World 🌎
 
-### Me Chamo Nayara Oliveira estudante de Analista de Sistemas 3º/6º Previsão de conclusão 2022
+### Me Chamo Nayara Oliveira estudante de Analista de Sistemas 3/5 e estagiária no Centro de Excelência Votorantim SA 
 ### Interesses em programação :
 💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
 ### Conquistas :arrow_down:
-🚩 02/2021
-
-### Programa de Estágio 
-Centro de Excelência Votorantim SA
 ### [Alura Cursos](https://www.alura.com.br/)
 🚩 05/2021
 

@@ -5,7 +5,7 @@
 💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
-### Sobre mim
+### Conquistas :arrow_down:
 🚩 02/2021
 
 ### Programa de Estágio 

@@ -14,6 +14,7 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 Engenharia de Requisitos: como levantar, documentar e validar de carga horária estimada em 6 horas, realizando 30 de 30 atividades
 
 🚩 03/2021
+
 Python 3 parte 2: Avançando na linguagem" de carga horária estimada em 12 horas, realizando 74 de 74 atividades
 Python 3 parte 1: Introdução à nova versão da linguagem de carga horária estimada em 12 horas, realizando 84 de 84 atividades
 

@@ -4,6 +4,8 @@
 ### Interesses em programação :
 💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
+[Linkedin](https://www.linkedin.com/in/naolip/)
+
 
 ## Conquistas :arrow_down:
 ## [Alura Cursos](https://www.alura.com.br/)
@@ -39,8 +41,3 @@ Competências trabalhadas Inteli:
 🚩 08/2020
 
 💻 Meu primeiro site foi construido junto as meninas do [PrograMaria](https://www.programaria.org/), Javascript, CSS, HTML
-
-
-[Linkedin](https://www.linkedin.com/in/naolip/)
-
-[Twitter](https://twitter.com/Marianicksiame1)

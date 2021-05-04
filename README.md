@@ -20,7 +20,7 @@ From IBM Completed on 13/04/2021
 ### Bootcamps
 🚩 11/2020
 
-Fiz parte de um bootcamp de desenvolvimento de Software junto ao  Inteli - Instituto de Tecnologia e Liderança, de Setembro a Novembro de 2020. Ao todo, 11 semanas, 56 aulas, 336 horas de dedicação, 7 professores. Trabalhou em grupos de 7 alunos para desenvolver uma solução de controle de aglomeração em espaços de trabalho compartilhados através de inteligência artificial - projeto open source e encomendado pela empresa Exame.
+Fiz parte de um bootcamp de desenvolvimento de Software junto ao  [Inteli](https://www.linkedin.com/school/inteli-edu/) - Instituto de Tecnologia e Liderança, de Setembro a Novembro de 2020. Ao todo, 11 semanas, 56 aulas, 336 horas de dedicação, 7 professores. Trabalhou em grupos de 7 alunos para desenvolver uma solução de controle de aglomeração em espaços de trabalho compartilhados através de inteligência artificial - projeto open source e encomendado pela empresa Exame.
 ###  Competências trabalhadas Inteli:
 🐍 Programação em Python
 📝 Reconhecimento de imagens 

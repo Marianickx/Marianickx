@@ -7,12 +7,12 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
 ### Sobre mim
 🚩 02/2021
+
 Programa de Estágio - Centro de Excelência Votorantim
-
 ### [Alura Cursos](https://www.alura.com.br/)
-
 🚩 05/2021
-"Engenharia de Requisitos: como levantar, documentar e validar" de carga horária estimada em 6 horas, realizando 30 de 30 atividades
+
+Engenharia de Requisitos: como levantar, documentar e validar de carga horária estimada em 6 horas, realizando 30 de 30 atividades
 
 ### Edx
 🚩 04/2021

@@ -8,7 +8,8 @@ Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 ### Sobre mim
 🚩 02/2021
 
-Programa de Estágio - Centro de Excelência Votorantim
+### Programa de Estágio 
+Centro de Excelência Votorantim SA
 ### [Alura Cursos](https://www.alura.com.br/)
 🚩 05/2021
 

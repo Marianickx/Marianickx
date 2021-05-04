@@ -5,23 +5,23 @@
 💻 Python | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
 Sempre disposta aprender e encarar novos desafios junto com a tecnologia.
 
-### Conquistas :arrow_down:
-### [Alura Cursos](https://www.alura.com.br/)
+## Conquistas :arrow_down:
+## [Alura Cursos](https://www.alura.com.br/)
 🚩 05/2021
 
 Engenharia de Requisitos: como levantar, documentar e validar de carga horária estimada em 6 horas, realizando 30 de 30 atividades
 
-### [Edx](https://www.edx.org/)
+## [Edx](https://www.edx.org/)
 🚩 04/2021
 
 Introduction to Data Science
 From IBM Completed on 13/04/2021
 
-### Bootcamps
+## Bootcamps
 🚩 11/2020
 
 [Inteli](https://www.linkedin.com/school/inteli-edu/) - Instituto de Tecnologia e Liderança, de Setembro a Novembro de 2020. Ao todo, 11 semanas, 56 aulas, 336 horas de dedicação, 7 professores. Trabalhou em grupos de 7 alunos para desenvolver uma solução de controle de aglomeração em espaços de trabalho compartilhados através de inteligência artificial - projeto open source e encomendado pela empresa Exame.
-###  Competências trabalhadas Inteli:
+#  Competências trabalhadas Inteli:
 🐍 Programação em Python
 📝 Reconhecimento de imagens 
 💡 User Experience
@@ -35,7 +35,7 @@ From IBM Completed on 13/04/2021
 
 🎈Trabalho voluntario: Embaixadora de Tecnologia [Inteli](https://www.linkedin.com/school/inteli-edu/) - Instituto de Tecnologia e Liderança - Dez/2020 previsão de conflusão Maio/2020
 
-### Programaria
+## Programaria
 🚩 08/2020
 
 💻 Meu primeiro site foi construido junto as meninas do [PrograMaria](https://www.programaria.org/), Javascript, CSS, HTML
